@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-ssr",
+  "version": "1.0.0",
+  "description": "implementing server-side rendering using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "ssr"
+  ],
+  "author": "wakar malik",
+  "license": "ISC"
+}
